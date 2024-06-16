@@ -10,7 +10,6 @@ This is the repository for `MajorProject`, a web application project that utiliz
 -   [Usage](#usage)
 -   [Configuration](#configuration)
 -   [Scripts](#scripts)
- 
 
 ## Description
 
@@ -93,5 +92,3 @@ This project is a web application built using Node.js and Express, featuring use
     ```sh
     npm test
     ```
-
- 
