@@ -1,6 +1,7 @@
-﻿# MajorProject 
+﻿# MajorProject  [Live-link](https://clone-airbnb-vxyg.onrender.com)
 
-This is the repository for `MajorProject`, a web application project that utilizes various modern web technologies and services. Live [Link](https://clone-airbnb-vxyg.onrender.com)
+
+This is the repository for `MajorProject`, a web application project that utilizes various modern web technologies and services.
 
 ## Table of Contents
 
