@@ -2,7 +2,7 @@
 
 This is the repository for `MajorProject`, a web application project that utilizes various modern web technologies and services.
 
-## [Link](# Live Link (https://clone-airbnb-vxyg.onrender.com)
+# Live Link(https://clone-airbnb-vxyg.onrender.com)
 
 ## Table of Contents
 
