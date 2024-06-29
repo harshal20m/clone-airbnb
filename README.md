@@ -65,12 +65,12 @@ This project is a web application built using Node.js and Express, featuring use
    Create a `.env` file in the root directory and add the following variables:
 
     ```env
-    MAPBOX_ACCESS_TOKEN=your_mapbox_access_token
+    MAPBOX_TOKEN=your_mapbox_access_token
     CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
     CLOUDINARY_API_KEY=your_cloudinary_api_key
     CLOUDINARY_API_SECRET=your_cloudinary_api_secret
-    DATABASE_URL=your_mongodb_connection_string
-    SESSION_SECRET=your_session_secret
+    ATLASDB_URL=your_mongodb_connection_string
+    SECRET=your_session_secret
     ```
 
 2. **Node Version**:
