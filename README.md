@@ -65,7 +65,7 @@ This project is a web application built using Node.js and Express, featuring use
    Create a `.env` file in the root directory and add the following variables:
 
     ```env
-    MAPBOX_TOKEN=your_mapbox_access_token
+    MAP_TOKEN=your_mapbox_access_token
     CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
     CLOUDINARY_API_KEY=your_cloudinary_api_key
     CLOUDINARY_API_SECRET=your_cloudinary_api_secret
