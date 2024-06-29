@@ -17,7 +17,6 @@ const passport = require("passport");
 const Localstrategy = require("passport-local");
 
 const User = require("./models/user.js");
-const { isLoggedIn } = require("./middleware.js");
 
 app.set("view engine", "ejs");
 app.set("views", path.join(__dirname, "views"));
